@@ -22,6 +22,8 @@ It's one static file with no build step. Open `index.html` in a browser, or serv
 
 Dependencies load from CDNs: [chess.js 0.10.3](https://github.com/jhlywa/chess.js) from cdnjs, plus Google Fonts.
 
+The chess pieces are Colin M.L. Burnett's classic set (licensed under BSD, GPL and GFDL), taken from [chessground](https://github.com/lichess-org/chessground) and embedded in the page as SVG.
+
 ## Editing lines
 
 The lines are in the `OPENINGS` array near the top of the script in `index.html`. After changing them, check that every move is legal and that you have only one answer per position:
