@@ -1,5 +1,7 @@
 # Repertoire Drills: Vienna & Caro-Kann
 
+**Live app: https://dwbh1342.github.io/opening-trainer/**
+
 A single-page app for memorizing an opening repertoire on an interactive chessboard:
 
 - **Vienna Game** (you play White): 9 lines, about 8–9 moves deep
