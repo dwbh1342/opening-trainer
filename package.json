@@ -1,0 +1,12 @@
+{
+  "name": "opening-trainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive drills and quizzes for a Vienna Game and Caro-Kann repertoire.",
+  "scripts": {
+    "validate": "node tools/validate-lines.js index.html"
+  },
+  "devDependencies": {
+    "chess.js": "0.10.3"
+  }
+}
